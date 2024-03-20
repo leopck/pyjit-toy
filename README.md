@@ -14,7 +14,7 @@ This repository contains two Python modules demonstrating advanced compiler tech
 Ensure you have Python 3.6 or newer installed. This project also requires the `llvmlite` package for LLVM IR generation:
 
 ```bash
-pip install llvmlite
+pip install -r requirements.txt
 ```
 
 ## Usage
